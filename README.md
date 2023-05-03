@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Hota</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-hota&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-hota" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu-hota" alt="himanshu-hota" /></a> </p>
 
 - 🔭 I’m currently working on [CodeTank](https://github.com/himanshu-hota/codetank)
 
@@ -17,6 +15,11 @@
 
 - ⚡ Fun fact **Code 2 Code**
 
+<h1>Github cards :-</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-hota&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-hota" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu-hota" alt="himanshu-hota" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
