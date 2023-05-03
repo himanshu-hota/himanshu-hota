@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Himanshu Hota</h1>
-<h3 align="center">Small town boy in a big arcade</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-hota&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-hota" /> </p>
 
