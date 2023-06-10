@@ -5,8 +5,6 @@
 
 
 
-- 🔭 I’m currently working on [CodeTank](https://github.com/himanshu-hota/codetank)
-
 - 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-himanshuhota.netlify.app/](https://portfolio-himanshuhota.netlify.app/)
