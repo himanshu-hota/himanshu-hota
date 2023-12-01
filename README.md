@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-himanshuhota.netlify.app/](https://portfolio-himanshuhota.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-himanshuhota.netlify.app/](https://nextjs-portfolio-nu-tawny.vercel.app/)
 
 - 📫 How to reach me **Himanshuhota55@gmail.com**
 
