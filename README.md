@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m a **MERN Stack Developer**
 
 - 👨‍💻 All of my projects are available at https://himanshuhota.vercel.app/
 
